@@ -4,5 +4,5 @@
 
 Olá bem vindo as receitas
 
-- ingreditente um
-- 
+- ingrediente um
+- ingrediente dois
